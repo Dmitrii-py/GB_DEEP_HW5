@@ -5,7 +5,7 @@
 # (решение задачи "не в одну строку" есть на 4 семинаре(5 задача))
 
 name_list = ['Ivan', 'Piter', 'Andrew']
-salary_list = [1000, 2000, 3000]
+salary_list = [10000, 20000, 30000]
 extra_list = ['10.25%', '15%', '20%']
 
 result = {name: salary * extra for name, salary, extra
